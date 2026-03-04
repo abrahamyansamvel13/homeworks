@@ -1,2 +1,2 @@
-lets resolve a conflict
+error lets resolve a conflict
 
